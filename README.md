@@ -77,9 +77,4 @@ Key features of the dashboard include:
 
 Pull requests are welcome. For any major changes, please open an issue first to discuss improvements or feature requests.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
